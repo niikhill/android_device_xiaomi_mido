@@ -1,0 +1,12 @@
+[
+  {
+    "repository":  "IamJoker03/android_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch":      "nucleon_oreo"
+  },
+  {
+    "repository":  "IamJoker03/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "mr1"
+  }
+]
